@@ -1,4 +1,9 @@
 <?php
+/**
+* Demo Class
+* Provides methods for easily creating demo pages
+*/
+
 class Demo {
     public $title;
     public $description;
